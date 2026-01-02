@@ -35,60 +35,41 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
+  name: "Elika.Devika",
   tagline: "I build things for web",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `I am an aspiring Frontend Developer passionate about building responsive and user-friendly web interfaces. I enjoy working with HTML, CSS, JavaScript, and React, and I am constantly learning new technologies to improve my skills and create better user experiences.`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkedin: "https://www.linkedin.com/in/devika-elika/",
+  github: "https://github.com/elika-devika",
+  
+  
 };
 
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Position: "B.Tech Student(2ndbYear)",
+    Company: `KKR & KSR INSTITUTION OF TECHNOLOGY AND SCIENCES`,
+    Location: "Guntur,AP",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "2024-2028",
   },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
+  
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
+  
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
+    Position: "Bachelor in Computer Science & Engineering",
+    Company: `KKR AND KSR INSTITUTION OF TECHNOLOGY AND SCIENCESSS`,
+    Location: "GUNTUR,AP",
     Type: "Full Time",
-    Duration: "Jan 2022 - Present",
-  },
-  {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Duration: "2024-2028S",
   },
 ];
 
@@ -98,12 +79,8 @@ export const techStackDetails = {
   css: css,
   js: js,
   react: react,
-  redux: redux,
-  sass: sass,
-  tailwind: tailwind,
   bootstrap: bootstrap,
   vscode: vscode,
-  postman: postman,
   npm: npm,
   git: git,
   github: github,
@@ -113,63 +90,29 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "smart Digital Notice Board",
     image: projectImage1,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    techstack: "Iot",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
+
   {
-    title: "Project title 2",
+    title: "Event organizer",
     image: projectImage2,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    techstack: "HTML,CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
-  {
-    title: "Project title 3",
-    image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 4",
-    image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 5",
-    image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 6",
-    image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
+  
 ];
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
-};
+  email: "24jr1a0575@gmail.com",
+  
+}

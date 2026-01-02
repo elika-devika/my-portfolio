@@ -3,7 +3,7 @@
 #### Figma Design https://www.figma.com/community/file/1116246660507537002
 ### Preview ( Dark Mode )
 
-<img src="/preview.gif" alt="preview" width="600px" />
+<img src="/profile.jpg" alt="profile" width="600px" />
 
 ## Follow Below instructions to add your deatils in the portfolio.
 
@@ -14,9 +14,9 @@
 ```javascript
 / Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
+  name: "Devika",
   tagline: "I build things for web",
-  img: profile,
+  img:profile,
   about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
   Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
   when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,

@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600;700&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -6,22 +7,35 @@
 .max-width {
   @apply lg:mx-auto lg:px-24 xl:px-48 px-5;
 }
+
 .bg-gradient {
   @apply bg-gradient-to-r from-sky-500 via-purple-500 to-pink-600;
 }
+
 .text-gradient {
   @apply bg-clip-text bg-gradient text-transparent;
 }
+
 .section {
   @apply pt-28 xl:pt-28 2xl:pt-44;
 }
+
 .text-content {
   @apply dark:text-light-content text-dark-content;
 }
+
 body {
   overflow-x: hidden;
 }
+
 /* Hide scrollbar for Chrome, Safari and Opera */
 body::-webkit-scrollbar {
   display: none;
+}
+
+/* ============================= */
+/* PROFILE IMAGE – PORTRAIT FIX */
+/* ============================= */
+.profile-img {
+  @apply w-40 h-56 object-cover rounded-2xl mx-auto;
 }
